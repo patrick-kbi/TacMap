@@ -34,6 +34,33 @@
                     "_location": "53.1207350007867,17.97967700009256"
                 },
                 {
+                    "_id": "KBI HQ",
+                    "_name": "KBI HQ",
+                    "_network": "KBI",
+                    "_icon": "img/kbi.png",
+                    "_flag": "img/kbi.png",
+                    "_report_to": "KBIHQ",
+                    "_location": "38.956634, -77.380601"
+                },
+                {
+                    "_id": "Kevin",
+                    "_name": "Kevin",
+                    "_network": "KBI",
+                    "_icon": "img/kbi.png",
+                    "_flag": "img/kbi.png",
+                    "_report_to": "KBIHQ",
+                    "_location": "38.956866, -77.276674"
+                },
+                {
+                    "_id": "Barry",
+                    "_name": "Barry",
+                    "_network": "KBI",
+                    "_icon": "img/kbi.png",
+                    "_flag": "img/kbi.png",
+                    "_report_to": "KBIHQ",
+                    "_location": "38.956866, -77.486684"
+                },
+                {
                     "_id": "MeuArg",
                     "_name": "MEU ARG",
                     "_network": "USA",
@@ -2907,14 +2934,19 @@
         "Networks": {
             "Network": [
                 {
-                    "_name": "NATO",
-                    "_icon": "img/NATO_Flag.png",
-                    "_netcon": "NatoHq"
+                    "_name": "KBI",
+                    "_icon": "img/kbi.png",
+                    "_netcon": "KBIHQ"
                 },
                 {
                     "_name": "USA",
                     "_icon": "img/USA_Flag.png",
                     "_netcon": "MeuArg"
+                },
+                {
+                    "_name": "NATO",
+                    "_icon": "img/NATO_Flag.png",
+                    "_netcon": "NatoHq"
                 },
                 {
                     "_name": "CAN",
